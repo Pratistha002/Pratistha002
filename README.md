@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0a0d14,50:5eead4,100:a78bfa&text=Pratistha%20Singh&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20NATT%20Labs%20%C2%B7%20Bangalore&descAlignY=58&descSize=18" alt="Pratistha Singh, Software Developer at NATT Labs" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0a0d14,50:5eead4,100:a78bfa&text=Pratistha%20Singh&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Product%20Engineer%20%C2%B7%20NATT%20Labs%20%C2%B7%20Bangalore&descAlignY=58&descSize=18" alt="Pratistha Singh, Product Engineer at NATT Labs" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=3200&pause=900&color=5EEAD4&center=true&vCenter=true&width=640&lines=I+build+software+from+the+screen+to+the+API;Currently+building+SaarthiX;React+%C2%B7+Next.js+%C2%B7+Spring+Boot+%C2%B7+NestJS+%C2%B7+MongoDB;Software+Developer+at+NATT+Labs)](https://github.com/Pratistha002)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=3200&pause=900&color=5EEAD4&center=true&vCenter=true&width=640&lines=I+build+software+from+the+screen+to+the+API;Currently+building+SaarthiX;React+%C2%B7+Next.js+%C2%B7+Spring+Boot+%C2%B7+NestJS+%C2%B7+MongoDB;Product+Engineer+at+NATT+Labs)](https://github.com/Pratistha002)
 
 <p>
   <a href="https://www.linkedin.com/in/pratistha02"><img src="https://img.shields.io/badge/LinkedIn-pratistha02-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -25,7 +25,7 @@ I built **SaarthiX** and **SaarthiX Workforce**, two products that are live toda
 
 ```ts
 const pratistha = {
-  role: "Software Developer",
+  role: "Product Engineer",
   company: "NATT Labs",
   location: "Bangalore, India",
   building: ["SaarthiX", "SaarthiX Workforce"],
