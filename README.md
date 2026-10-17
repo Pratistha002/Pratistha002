@@ -11,8 +11,6 @@
   <a href="https://saarthiworkforce.com"><img src="https://img.shields.io/badge/Workforce-live-a78bfa?style=for-the-badge&logoColor=white" alt="SaarthiX Workforce live" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Pratistha002&label=Profile%20views&color=5eead4&style=flat" alt="Profile views" />
-
 </div>
 
 ---
