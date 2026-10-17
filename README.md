@@ -19,7 +19,7 @@
 
 ## 👩‍💻 About me
 
-I am a **software developer at [NATT Labs](https://www.nattlabs.com/)** in **Bangalore**. I like work that crosses the whole stack: the React screen, the API behind it, and the database under that.
+I am a **Product Engineer at [NATT Labs](https://www.nattlabs.com/)** in **Bangalore**. I like work that crosses the whole stack: the React screen, the API behind it, and the database under that.
 
 I built **SaarthiX** and **SaarthiX Workforce**, two products that are live today, and I am still building SaarthiX every day.
 
